@@ -43,7 +43,8 @@ float: left;
 margin-left: 15px;}
 
 
-h2 strong
+h2 strong  { font-size: 2em;
+font-weight: 900;}
 .image-r
 #side-content
 #main-nav
