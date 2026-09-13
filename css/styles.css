@@ -15,13 +15,13 @@ body  {
   border-radius: 12px 12px 0px 0px;
 }
 
-#header h1  {
+#header h1 {
   position: absolute;
-left: 420px;
-top:5px;
-font-size: 3em;
-font-family: 'Devonshire', cursive;
-color: #E35335;
+  left: 420px;
+  top:5px;
+  font-size: 3em;
+  font-family: 'Devonshire', cursive;
+  color: #E35335;
 }
 
 #header a#logo1 img  {
