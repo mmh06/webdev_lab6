@@ -16,12 +16,12 @@ body  {
 }
 
 #header h1  {
-  text-decoration: none;
   position: absolute;
-  top:-34px;
-  right: 10px;
-  color: white;
-  font-size: 1.8em;
+left: 420px;
+top:5px;
+font-size: 3em;
+font-family: 'Devonshire', cursive;
+color: #E35335;};
 }
 
 #header a#logo1 img  {
